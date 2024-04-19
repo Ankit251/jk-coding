@@ -1,0 +1,21 @@
+Source_Location,Item_Description,SourceInventory,Source_State,Source_Country,Destination_Location,DestinationInventory,Dest_State,Dest_Country,distance_in_miles
+Chattanooga,LeafFilter Core 6' White,A LOT,TN,USA,Atlanta,2.63,GA,USA,86.67
+Chattanooga,LeafFilter Core 6' Gray,A LOT,TN,USA,Atlanta,2.36,GA,USA,86.67
+Montgomery,LeafFilter Core 6' Beige,A LOT,AL,USA,South Atlanta,1.86,GA,USA,117.54
+Montgomery,Supplies - Caulking N/A,135.40,AL,USA,South Atlanta,2.06,GA,USA,117.54
+Chattanooga,Supplies - Caulking N/A,74.86,TN,USA,South Atlanta,2.06,GA,USA,122.98
+Chattanooga,LeafFilter Core 6' Beige,A LOT,TN,USA,South Atlanta,1.86,GA,USA,122.98
+Greenville,LeafFilter Core 6' Gray,A LOT,SC,USA,Atlanta,2.36,GA,USA,124.99
+Alabama,LeafFilter Core 6' Beige,A LOT,AL,USA,South Atlanta,1.86,GA,USA,128.18
+Augusta,LeafFilter Core 6' Gray,A LOT,GA,USA,Atlanta,2.36,GA,USA,132.77
+Knoxville,LeafFilter Core 6' White,A LOT,TN,USA,Atlanta,2.63,GA,USA,133.53
+Knoxville,LeafFilter Core 6' Gray,A LOT,TN,USA,Atlanta,2.36,GA,USA,133.53
+Alabama,LeafFilter Core 6' Gray,A LOT,AL,USA,Atlanta,2.36,GA,USA,154.88
+Alabama,LeafFilter Core 6' White,A LOT,AL,USA,Atlanta,2.63,GA,USA,154.88
+Montgomery,LeafFilter Core 6' White,A LOT,AL,USA,Atlanta,2.63,GA,USA,163.58
+Montgomery,LeafFilter Core 6' Gray,A LOT,AL,USA,Atlanta,2.36,GA,USA,163.58
+Greenville,LeafFilter Core 6' Beige,230.00,SC,USA,South Atlanta,1.86,GA,USA,167.45
+Nashville,LeafFilter Core 6' White,A LOT,TN,USA,Atlanta,2.63,GA,USA,171.3
+Nashville,LeafFilter Core 6' Gray,A LOT,TN,USA,Atlanta,2.36,GA,USA,171.3
+Knoxville,LeafFilter Core 6' Beige,A LOT,TN,USA,South Atlanta,1.86,GA,USA,185.68
+Nashville,Supplies - Caulking N/A,A LOT,TN,USA,South Atlanta,2.06,GA,USA,199.22
